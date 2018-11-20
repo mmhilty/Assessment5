@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Titillium+Web');
+
+
+body{
+background-image: url("avengerstile.jpg");
+}
+
+
+.titleclass{
+    background: rgba(219, 18, 18, 0.9);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 2em;
+    font-variant: small-caps;
+}
+
+.questionbox{
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background: bisque;
+    font-family: 'Montserrat', sans-serif;
+
+}
